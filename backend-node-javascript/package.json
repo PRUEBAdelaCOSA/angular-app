@@ -56,7 +56,7 @@
     "restore-prod": "npm run create-database-prod && npm run create-domains-prod"
   },
   "dependencies": {
-    "compression": "1.7.5",
+    "compression": "1.8.1",
     "cors": "2.8.5",
     "cross-env": "7.0.3",
     "dotenv": "16.4.7",

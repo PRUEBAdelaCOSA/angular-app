@@ -18,7 +18,7 @@
   "description": "",
   "dependencies": {
     "dotenv": "16.4.5",
-    "express": "4.21.1",
+    "express": "4.22.0",
     "reflect-metadata": "0.2.2",
     "ts-node-dev": "2.0.0",
     "tsyringe": "4.8.0",
